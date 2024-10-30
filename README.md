@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vikas Mathur</h1>
-<h3 align="center">A passion9 years Professional experiences in Linux and VMware Administration OpenStack (IaaS),OpenShift(PaaS),Kubernetes ,Rancher & DevOps experience in the Telco Cloud Domain as [Public & Private Cloud] to acquire a job in a reputed company where can contribute the best of mine in the field of Infrastructure and cloud domain with willingness to learn, be up to date with the current technology and upgrade myself as per industry requirements. 🚀 Current Focus: Enhancing expertise in cloud-native technologies, automation, and DevOps methodologies to support dynamic, high-performance environments. 💼 Seeking Opportunities: Eager to collaborate with forward-thinking teams and contribute to innovative projects in the cloud and infrastructure space. 🌱 Personal Goal: To stay up-to-date with emerging technologies and continuously upgrade my skills as per industry demands.</h3>
+<h3 align="center">
+    A passionate professional with 9 years of experience in Linux and VMware Administration, OpenStack (IaaS), OpenShift (PaaS),
+    Kubernetes, Rancher, and DevOps, specializing in the Telco Cloud Domain (Public & Private Cloud).
+</h3>
+<h3 align="center">
+    Seeking a role in a reputed company where I can contribute my skills in the field of Infrastructure and Cloud,
+    with a strong willingness to learn, stay updated with current technology, and continuously enhance my expertise as per industry demands.
+</h3>
+<h3 align="center">🚀 Current Focus:</h3>
+<p align="center">Enhancing expertise in cloud-native technologies, automation, and DevOps methodologies to support dynamic, high-performance environments.</p>
+<h3 align="center">💼 Seeking Opportunities:</h3>
+<p align="center">Eager to collaborate with forward-thinking teams and contribute to innovative projects in the cloud and infrastructure space.</p>
+<h3 align="center">🌱 Personal Goal:</h3>
+<p align="center">To stay up-to-date with emerging technologies and continuously upgrade my skills as per industry demands.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuntomathur&label=Profile%20views&color=0e75b6&style=flat" alt="ubuntomathur" /> </p>
 
