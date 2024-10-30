@@ -4,45 +4,49 @@
     Kubernetes, Rancher, and DevOps, specializing in the Telco Cloud Domain (Public & Private Cloud).Seeking a role in a reputed company where I can contribute my skills in the field of Infrastructure and Cloud,  with a strong willingness to learn, stay updated with current technology, and continuously enhance my expertise as per industry demands.
 
 
-<h2>Core Competencies</h2>
-<div class="competencies-container">
-    <div class="competencies-column">
-        <ul>
-            <li>NFV/SDN/ESTI</li>
-            <li>Docker/Podman</li>
-            <li>CEE/ECM/VNF</li>
-            <li>AWS/Azure</li>
-            <li>4G/5G</li>
-        </ul>
-    </div>
-    <div class="competencies-column">
-        <ul>
-            <li>Telco Cloud</li>
-            <li>Linux/Unix</li>
-            <li>IaaS/PaaS/CaaS</li>
-            <li>NCS[K8s]</li>
-            <li>ESTI MANO</li>
-        </ul>
-    </div>
-    <div class="competencies-column">
-        <ul>
-            <li>OpenStack/CBIS</li>
-            <li>VMware/Exsi</li>
-            <li>VNF/CNF</li>
-            <li>NCD/NCOM</li>
-            <li>Python/Bash</li>
-        </ul>
-    </div>
-    <div class="competencies-column">
-        <ul>
-            <li>Kubernetes</li>
-            <li>Ericsson NFVI 6.3</li>
-            <li>OpenShift/Rancher</li>
-            <li>CI/CD</li>
-            <li>Terraform</li>
-        </ul>
-    </div>
-</div>
+<h2 style="text-align: center;">Core Competencies</h2>
+<table class="competencies-table">
+    <tr>
+        <td>
+            <ul>
+                <li>NFV/SDN/ESTI</li>
+                <li>Docker/Podman</li>
+                <li>CEE/ECM/VNF</li>
+                <li>AWS/Azure</li>
+                <li>4G/5G</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Telco Cloud</li>
+                <li>Linux/Unix</li>
+                <li>IaaS/PaaS/CaaS</li>
+                <li>NCS[K8s]</li>
+                <li>ESTI MANO</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>OpenStack/CBIS</li>
+                <li>VMware/Exsi</li>
+                <li>VNF/CNF</li>
+                <li>NCD/NCOM</li>
+                <li>Python/Bash</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Kubernetes</li>
+                <li>Ericsson NFVI 6.3</li>
+                <li>OpenShift/Rancher</li>
+                <li>CI/CD</li>
+                <li>Terraform</li>
+            </ul>
+        </td>
+    </tr>
+</table>
     
 </h3>
 <h3><strong>🚀 Current Focus:</strong></h3>
