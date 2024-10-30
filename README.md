@@ -3,12 +3,15 @@
     A passionate professional with 9 years of experience in Linux and VMware Administration, OpenStack (IaaS), OpenShift (PaaS),
     Kubernetes, Rancher, and DevOps, specializing in the Telco Cloud Domain (Public & Private Cloud).Seeking a role in a reputed company where I can contribute my skills in the field of Infrastructure and Cloud,  with a strong willingness to learn, stay updated with current technology, and continuously enhance my expertise as per industry demands.
 </h3>
-<h3 align="center">🚀 Current Focus:</h3>
-<p align="center">Enhancing expertise in cloud-native technologies, automation, and DevOps methodologies to support dynamic, high-performance environments.</p>
-<h3 align="center">💼 Seeking Opportunities:</h3>
-<p align="center">Eager to collaborate with forward-thinking teams and contribute to innovative projects in the cloud and infrastructure space.</p>
-<h3 align="center">🌱 Personal Goal:</h3>
-<p align="center">To stay up-to-date with emerging technologies and continuously upgrade my skills as per industry demands.</p>
+<h3><strong>🚀 Current Focus:</strong></h3>
+<p><strong>Enhancing expertise in cloud-native technologies, automation, and DevOps methodologies to support dynamic, high-performance environments.</strong></p>
+
+<h3><strong>💼 Seeking Opportunities:</strong></h3>
+<p><strong>Eager to collaborate with forward-thinking teams and contribute to innovative projects in the cloud and infrastructure space.</strong></p>
+
+<h3><strong>🌱 Personal Goal:</strong></h3>
+<p><strong>To stay up-to-date with emerging technologies and continuously upgrade my skills as per industry demands.</strong></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuntomathur&label=Profile%20views&color=0e75b6&style=flat" alt="ubuntomathur" /> </p>
